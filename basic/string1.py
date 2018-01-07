@@ -26,8 +26,8 @@
 def donuts(count):
 	if count >= 10:
 		count = 'many'
-  result = 'Number of donuts: ' + count 
-  return result
+	result = 'Number of donuts: ' + count 
+	return result
 
 
 # B. both_ends
